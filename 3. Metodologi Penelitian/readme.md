@@ -38,6 +38,3 @@ Penelitian ini menggunakan pendekatan **R&D (Research and Development)** dan **s
 - JavaScript/React untuk antarmuka pengguna
 - Library kriptografi untuk enkripsi data
 - Tools pengujian keamanan dan validasi data
-
-## Diagram Alur Penelitian
-
